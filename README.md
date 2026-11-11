@@ -1,17 +1,21 @@
-# StoreAsk
+# StoreAsk for WooCommerce
 
-**Connect your WooCommerce store to your AI assistant**
+**Connect your WooCommerce store to Claude**
 
-StoreAsk connects your WooCommerce store to the AI assistant you already use, Claude or ChatGPT. On its own, an assistant can't see your orders, so it guesses or asks you to paste in exports. With StoreAsk it works from your real numbers, so it becomes your strategy, marketing and merchandising team in one chat.
+StoreAsk connects your WooCommerce store to Claude. On its own, Claude can't see your orders, so it guesses or asks you to paste in exports. With StoreAsk it works from your real numbers, so it becomes your strategy, marketing and merchandising team in one chat.
 
 Figure out how to:
 
-- **Beat your best months:** find what drove them and have your assistant build the plan to beat them: which channels to double down on, which campaigns to run bigger, which products to push
+- **Beat your best months:** find what drove them and have Claude build the plan to beat them: which channels to double down on, which campaigns to run bigger, which products to push
 - **Make more on every order:** see which products carry your profit, which sell the add-ons, and which first purchases turn into repeat customers, then get prices, bundles and offers built on how past changes played out
-- **Turn one-time buyers into regulars:** find who bought once and never came back, and have your assistant write the emails that bring them back
-- **Numbers you can trust:** counted the way WooCommerce Analytics counts them, with how each figure was worked out
+- **Turn one-time buyers into regulars:** find who bought once and never came back, and have Claude write the emails that bring them back
+- **Stay in stock:** see what's about to run out and what hasn't sold in months
 
-Setup takes about a minute: approve access on WooCommerce's own screen in your WordPress admin, then paste one address into Claude or ChatGPT. No WordPress plugin to install, no code.
+Claude can work with your orders, net sales, profit and margins, products and categories, coupons, refunds, customers, stock levels, traffic sources and campaigns, and price history, for one store or several.
+
+**Numbers you can trust:** every figure is counted the way WooCommerce Analytics counts it, and Claude can show how it was worked out. StoreAsk only reads your store and never changes anything in it.
+
+Setup takes about a minute: connect your store at [storeask.app](https://storeask.app) by approving access on WooCommerce's own screen in your WordPress admin, then install this plugin and sign in when Claude asks. No WordPress plugin to install, no code.
 
 ## What you need
 
@@ -20,7 +24,7 @@ Setup takes about a minute: approve access on WooCommerce's own screen in your W
 
 ## Install
 
-In Claude, add StoreAsk from the plugin directory.
+In Claude, add StoreAsk for WooCommerce from the plugin directory.
 
 In Claude Code:
 
@@ -66,7 +70,7 @@ The first time Claude uses StoreAsk, it asks you to sign in to your StoreAsk acc
 | **Bought Together** (`bought_together`) | Which products people buy together, for bundles and cross-sells. |
 | **Find Products** (`find_products`) | Finds your products by name or SKU, with prices and stock. |
 | **Find Categories** (`find_categories`) | Finds your product categories by name. |
-| **Calculate** (`calculate`) | Does exact arithmetic on figures the other tools found, so the assistant never does sums in its head. |
+| **Calculate** (`calculate`) | Does exact arithmetic on figures the other tools found, so Claude never does sums in its head. |
 | **Add Event** (`add_event`) | Saves something that happened, like a sale or a campaign, so later answers can mention it. Saved in StoreAsk only. |
 | **Set Product Cost** (`set_product_cost`) | Saves what a product costs you, so profit can be worked out. Saved in StoreAsk only. |
 
