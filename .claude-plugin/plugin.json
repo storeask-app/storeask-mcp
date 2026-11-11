@@ -1,7 +1,7 @@
 {
   "name": "storeask",
   "displayName": "StoreAsk for WooCommerce",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect your WooCommerce store to Claude and ask about your real sales, profit, customer and stock numbers.",
   "author": {
     "name": "StoreAsk",
@@ -23,7 +23,7 @@
   ],
   "icon": "./assets/icon.png",
   "documentationUrl": "https://storeask.app/docs/claude",
-  "supportUrl": "https://storeask.app/docs/claude",
+  "supportUrl": "https://storeask.app/docs",
   "privacyPolicyUrl": "https://storeask.app/privacy",
   "termsOfServiceUrl": "https://storeask.app/terms"
 }

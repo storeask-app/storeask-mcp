@@ -76,6 +76,10 @@ The first time Claude uses StoreAsk, it asks you to sign in to your StoreAsk acc
 
 **The `woocommerce-store-questions` skill**: tells Claude which StoreAsk tools to use for common questions (reviews, sales changes, pricing, customers, stock) and how to quote the figures they return.
 
+## Other AI assistants
+
+StoreAsk also works in ChatGPT and other assistants that support remote MCP servers. The server address is `https://storeask.app/mcp`, and the [setup guides](https://storeask.app/docs) cover each assistant.
+
 ## Your data
 
 - The plugin contains a connector setting and a skill. The connector links Claude to one server, `https://storeask.app/mcp`, where you sign in with OAuth.
