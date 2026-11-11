@@ -1,0 +1,15 @@
+{
+  "name": "storeask",
+  "description": "WooCommerce, in your AI assistant",
+  "owner": {
+    "name": "StoreAsk",
+    "email": "support@storeask.app"
+  },
+  "plugins": [
+    {
+      "name": "storeask",
+      "source": "./",
+      "description": "StoreAsk connects your WooCommerce store to Claude and ChatGPT, so your assistant works from your real sales, profit, customer and stock numbers."
+    }
+  ]
+}

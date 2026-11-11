@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "storeask": {
+      "type": "http",
+      "url": "https://storeask.app/mcp"
+    }
+  }
+}

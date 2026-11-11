@@ -1,0 +1,29 @@
+{
+  "name": "storeask",
+  "displayName": "StoreAsk",
+  "version": "1.0.0",
+  "description": "StoreAsk connects your WooCommerce store to Claude and ChatGPT, so your assistant works from your real sales, profit, customer and stock numbers.",
+  "author": {
+    "name": "StoreAsk",
+    "email": "support@storeask.app",
+    "url": "https://storeask.app"
+  },
+  "homepage": "https://storeask.app",
+  "repository": "https://github.com/storeask-app/storeask-mcp",
+  "license": "MIT",
+  "keywords": [
+    "woocommerce",
+    "wordpress",
+    "ecommerce",
+    "sales",
+    "analytics",
+    "profit",
+    "customers",
+    "inventory"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://storeask.app/docs",
+  "supportUrl": "https://storeask.app/docs/claude",
+  "privacyPolicyUrl": "https://storeask.app/privacy",
+  "termsOfServiceUrl": "https://storeask.app/terms"
+}
